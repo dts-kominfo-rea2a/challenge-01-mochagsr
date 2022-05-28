@@ -114,6 +114,3 @@ main();
 module.exports = {
   users,
 };
-
-// users.push(firstUser);
-// console.log(users);
